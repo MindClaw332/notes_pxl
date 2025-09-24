@@ -162,6 +162,5 @@ maar ook de informatie zelf
 	- community een public cloud maar specifiek gemaakt naar de noden van de community die het gebruikt
 - thuis -> meer en meer mensen hebben domotica en apps die bepaalde dingen regelen
 - powerline -> dit zijn apparaten die een signaal doorgeven via de stroom binnenshuis handig om internet te verlengen -> kabels zijn nog steeds beter maar soms gaat het niet of is het te duur
-- 
 
 # cisco samenvatting
